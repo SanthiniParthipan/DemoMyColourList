@@ -1,0 +1,2 @@
+rootProject.name='DemoMy Colour List'
+include ':app'
